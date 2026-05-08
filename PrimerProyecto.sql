@@ -1,4 +1,4 @@
-SELECT 
+SELECT -- Este programa nos dice que productos fueron los mas vendidos
     p.product_name,                    -- Nombre del producto
     p.category,                        -- Categoria
     SUM(o.quantity) AS unidades_vendidas,      -- Total de unidades
