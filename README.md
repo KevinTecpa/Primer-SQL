@@ -3,3 +3,4 @@
  clientes(Num. de cliente, genero, ciudad, fecha de suscripcion, tiene membrecia),
  Orden de compra(Num. de orden, Num. de cliente, producto comprado, fecha de compra, cantidad comprada, y metodo de pago). Usando esto aprendimos como ejempro, que genero gasto mas, 
  en que fechas se compro mas, que productos se vendieron mas, en que ciudad se compro mas.
+Tambien agregaremos una conexion de SQL a Python y analizaremos si hay correlacion entre ciertos parametros entre ellos como cantidad de articulos comprados en promedio, el costo total de los pedidos, el total de ordenes y la edad
